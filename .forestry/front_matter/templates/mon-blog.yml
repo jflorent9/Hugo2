@@ -12,6 +12,9 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: file
+  name: image
+  label: Image
 - name: displayInList
   label: Displayinlist
   type: boolean
